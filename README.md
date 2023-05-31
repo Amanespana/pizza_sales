@@ -7,4 +7,6 @@ This project leverages the power of MySQL Workbench to perform an in-depth sales
 - WHERE CLAUSE
 - JOIN TYPES (LEFT)
 - OVER/PARTITION BY
+
+# SCREENSHOT OF QUERIES
 ![queries](https://github.com/Amanespana/pizza_sales/blob/main/sql_pizza_sales_script.png)
