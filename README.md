@@ -1,5 +1,5 @@
 # Sales Analysis of Pizza Store using SQL
-<img src="pizza_sales_canva_pic.png" alt="Image" width="500" height="300">
+<img src="pizza_sales_canva_pic.png" alt="Image" width="800" height="500">
 
 
 This project leverages the power of MySQL Workbench to perform an in-depth sales analysis using fictional data from a pizza store.
